@@ -37,7 +37,17 @@ body {
 #container h1{
     font-size: 20px;
 }
+
 #post {
     background: white;
     padding: 1em;
 }
+
+#footer {
+    background: gray;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    padding: .8em;
+}
+
